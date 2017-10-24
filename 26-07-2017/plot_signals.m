@@ -23,7 +23,7 @@ for i = 1:L
     else
         x4(i) = 1;
         x5(i) = t(i);
-    end
+    end,
 end
 
 % Plot sin wave
